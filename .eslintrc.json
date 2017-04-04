@@ -1,0 +1,10 @@
+{
+    "extends": "airbnb",
+    "rules": {
+       "class-methods-use-this": "off",
+       "react/prop-types": "off",
+       "react/jsx-filename-extension": "off",
+       "func-names": "off",
+       "react/prefer-stateless-function": "off"
+    }
+}
